@@ -75,11 +75,11 @@ Launch Jupyter:
 jupyter lab
 ```
 
- - LAB 1:
-LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run Lab1-CNN.ipynb directly in Colab or on Jupyter Notebook. No setup is required beyond installing packages within the notebook.
-- LAB 2:
-Open LAB2/Lab2-DRL.ipynb to run the experiments.
+ - #### LAB 1:
+LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run **LAB1/Lab1-CNN.ipynb** directly in Colab or on Jupyter Notebook. No setup is required beyond installing packages within the notebook.
+- #### LAB 2:
+Open **LAB2/Lab2-DRL.ipynb** to run the experiments.
 Pre-trained models (*.pth) are already included in the folder for reproducibility.
-- LAB 3:
-Open LAB3/Lab3-transformers.ipynb to run the notebook.
+- #### LAB 3:
+Open **LAB3/Lab3-transformers.ipynb** to run the notebook.
 All results are reproducible using the uploaded code and models.
