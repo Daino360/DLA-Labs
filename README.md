@@ -5,11 +5,17 @@ This repository contains the implementation of three lab projects for the **Deep
 ## 📁 Repository Structure
 
 ```
-DLA-Labs/
-├── LAB1/ # ResNet, MLP, CNN implementations
+LAB1/ # ResNet, MLP, CNN implementations
 │ └── Lab1-CNN.ipynb
+| └──
+| └──
+
 ├── LAB2/ # Deep Reinforcement Learning experiments
 │ └── Lab2-DRL.ipynb
+| └── Lunar_best_model_NOValueNet.pth
+| └── Lunar_best_model_ValueNet.pth
+| └── best_model.pth
+
 ├── LAB3/ # Transformers with Hugging Face
 │ └── Lab3-transformers.ipynb
 ```
