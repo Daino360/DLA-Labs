@@ -59,10 +59,6 @@ Create the environment and activate it:
 conda create -n DRL -c conda-forge gymnasium pytorch-gpu matplotlib pygame jupyterlab
 conda activate DRL
 ```
-Launch Jupyter:
-```
-jupyter lab
-```
 
 LAB 3 — Transformers with Hugging Face
 
@@ -71,14 +67,14 @@ Create and activate the environment:
 conda create -n transformers -c conda-forge transformers datasets matplotlib scikit-learn torchvision pytorch-gpu accelerate sentencepiece jupyterlab ipywidgets tqdm
 conda activate transformers
 ```
+### Step 3: Run the notebooks
 Launch Jupyter:
 ```
 jupyter lab
 ```
 
-### Step 3: Run the notebooks
  - LAB 1:
-LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run Lab1-CNN.ipynb directly in Colab. No setup is required beyond installing packages within the notebook.
+LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run Lab1-CNN.ipynb directly in Colab or on Jupyter Notebook. No setup is required beyond installing packages within the notebook.
 - LAB 2:
 Open LAB2/Lab2-DRL.ipynb to run the experiments.
 Pre-trained models (*.pth) are already included in the folder for reproducibility.
