@@ -18,7 +18,7 @@ DLA-Labs/
 │ └── Lab3-transformers.ipynb
 ```
 
-> 🔍 **Note:** Each folder contains a Jupyter Notebook and optionally additional scripts or resources used for that lab.
+> **Note:** Each folder contains a Jupyter Notebook and optionally additional scripts or resources used for that lab.
 
 ---
 
@@ -63,8 +63,7 @@ Launch Jupyter:
 ```
 jupyter lab
 ```
-Open LAB2/Lab2-DRL.ipynb to run the experiments.
-Pre-trained models (*.pth) are already included in the folder for reproducibility.
+
 LAB 3 — Transformers with Hugging Face
 
 Create and activate the environment:
@@ -76,10 +75,13 @@ Launch Jupyter:
 ```
 jupyter lab
 ```
+
+### Step 3: Run the notebooks
+ - LAB 1:
+LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run Lab1-CNN.ipynb directly in Colab. No setup is required beyond installing packages within the notebook.
+- LAB 2:
+Open LAB2/Lab2-DRL.ipynb to run the experiments.
+Pre-trained models (*.pth) are already included in the folder for reproducibility.
+- LAB 3:
 Open LAB3/Lab3-transformers.ipynb to run the notebook.
 All results are reproducible using the uploaded code and models.
-
-    📝 Note for LAB 1:
-    LAB1 was executed in Google Colab using a free NVIDIA T4 GPU. You can run Lab1-CNN.ipynb directly in Colab. No setup is required beyond installing packages within the notebook.
-
-
