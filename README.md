@@ -16,6 +16,8 @@ DLA-Labs/
 | └── best_model.pth
 ├── LAB3/ # Transformers with Hugging Face
 │ └── Lab3-transformers.ipynb
+│ └── exercise_peft/
+│ └── fine_tuned_distilbert/
 ```
 
 > **Note:** Each folder contains a Jupyter Notebook and optionally additional scripts or resources used for that lab.
