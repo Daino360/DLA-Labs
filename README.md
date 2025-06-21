@@ -7,8 +7,7 @@ This repository contains the implementation of three lab projects for the **Deep
 DLA-Labs/
 ├── LAB1/ # ResNet, MLP, CNN implementations
 │ └── Lab1_CNN.ipynb
-| └── {cnn_depths}.pth
-| └── {resnet_depths}.pth
+| └── {all_best_models}.pth
 ├── LAB2/ # Deep Reinforcement Learning experiments
 │ └── DLA-Lab2-DRL.ipynb
 | └── Lunar_best_model_NOValueNet.pth
